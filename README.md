@@ -23,6 +23,8 @@ Developer and tutor. I make games, in-house apps, and help people learn to code.
 
 - Bachelors of Science in Computer Science [ **University of Washington Tacoma** ]
 - Minor in Mathematics [ **University of Washington Tacoma** ]
+- Farm/Systems Management at Hilltop Urban Gardens
+- Consulting for Lattice Systems Group
 
 ---
 
