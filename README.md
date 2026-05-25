@@ -10,7 +10,7 @@ Developer and tutor. I make games, in-house apps, and help people learn to code.
 - **Tutoring** - Teaching students math, game design, and CS fundementals.
 - **Agentic coding** - Building and working alongside AI.
 
-## Preferred Tools:
+## Preferred Tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
