@@ -5,10 +5,10 @@ Developer and tutor. I build games, in-house apps, and help people learn to code
 
 ## What I do
 
-- **Game development** — Done in Godot C# and JavaScript.
-- **In-house apps** — Tools to automate organizational needs.
-- **Tutoring** — Teaching students math, game design, and CS fundementals.
-- **Agentic coding** — Building and working alongside AI.
+- **Game development** - Done in Godot C# and JavaScript.
+- **In-house apps** - Tools to automate organizational needs.
+- **Tutoring** - Teaching students math, game design, and CS fundementals.
+- **Agentic coding** - Building and working alongside AI.
 
 ## Tech I work with:
 
