@@ -21,7 +21,7 @@ Developer and tutor. I make games, in-house apps, and help people learn to code.
 ## Background
 
 - Bachelors of Science in Computer Science [ **University of Washington Tacoma** ]
-- Minor in mathematics [ **University of Washington Tacoma** ]
+- Minor in Mathematics [ **University of Washington Tacoma** ]
 
 ---
 
