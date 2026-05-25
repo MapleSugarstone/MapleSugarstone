@@ -1,5 +1,5 @@
 # Hi, I'm Maple Sugarstone
-Maplesugarstone@gmail.com - They/Them
+maplesugarstone@gmail.com - They/Them
 
 Developer and tutor. I make games, in-house apps, and help people learn to code.
 
