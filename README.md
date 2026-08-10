@@ -18,7 +18,7 @@ Developer and tutor. I make games, in-house apps, and help people learn to code.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-555?logo=claude)
-![Scratch](https://img.shields.io/badge/-Scratch-E4600C?style=flat&logo=scratch&logoColor=white)
+![Scratch](https://img.shields.io/badge/-Scratch-CC6E00?style=flat&logo=scratch&logoColor=white)
 
 ## Background
 
