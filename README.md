@@ -8,9 +8,8 @@ Developer and tutor. I make games, in-house apps, and help people learn to code.
 - **Game development** - Done in Godot C# and JavaScript.
 - **In-house apps** - Tools to automate organizational needs.
 - **Tutoring** - Teaching students math, game design, and CS fundementals.
-- **Agentic coding** - Building and working alongside AI.
 
-## Preferred Tools
+## Tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
