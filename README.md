@@ -1,7 +1,7 @@
 # Hi, I'm Maple Sugarstone
 maplesugarstone@gmail.com - They/Them
 
-Developer and tutor. I make games, in-house apps, and help people learn to code.
+Developer and tutor. I make games, in-house apps, and help people learn how to code.
 
 ## What I do
 
