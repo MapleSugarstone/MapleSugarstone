@@ -1,5 +1,5 @@
 # Hi, I'm Maple Sugarstone
-maplesugarstone@gmail.com - They/Them
+maplesugarstone@gmail.com - They/Them/She/Her
 
 Developer, illustrator, and tutor. I make games, apps, and help people learn how to code.
 
